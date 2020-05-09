@@ -297,11 +297,11 @@
     }
   },
   {
-    "author": "Tristan D ",
+    "author": "Tristan D",
     "featured": false,
     "id": "gotomeeting",
     "name": "Go To Meeting",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "icons": {
       "png": "https://cdn.jsdelivr.net/gh/getferdi/recipes/uncompressed/gotomeeting/icon.png",
       "svg": "https://cdn.jsdelivr.net/gh/getferdi/recipes/uncompressed/gotomeeting/icon.svg"
