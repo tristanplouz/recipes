@@ -1,0 +1,13 @@
+{
+  "id": "gotomeeting",
+  "name": "Go To Meeting",
+  "version": "0.2.0",
+  "description": "GoToMeeting App",
+  "main": "index.js",
+  "author": "Tristan D ",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.gotomeeting.com/home.html",
+    "hasNotificationSound": true
+  }
+}
